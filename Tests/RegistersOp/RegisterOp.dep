@@ -6,8 +6,105 @@
   <configuration>
     <name>Debug</name>
     <outputs>
+      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\CMSIS\Include\core_cm3.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg840f32.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\em_device.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\system_efm32tg.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\CMSIS\Include\core_cmFunc.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\RegisterOp.pbd</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
       <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\Debug\Exe\RegisterOp.out</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_msc.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_aes.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\CMSIS\Include\core_cmInstr.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_lesense_buf.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_rmu.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_lesense.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_gpio_p.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_emu.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_lesense_st.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_lesense_ch.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_cmu.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_gpio.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_prs_ch.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\emlib\inc\em_chip.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_dmactrl.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_af_ports.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_af_pins.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\emlib\inc\em_system.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_prs.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_dma_ch.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_dma.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_timer.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_timer_cc.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_usart.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_leuart.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_pcnt.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_letimer.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_i2c.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_adc.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_dac.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_acmp.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_vcmp.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_lcd.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_rtc.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_dmareq.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_dma_descriptor.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_devinfo.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_romtable.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_wdog.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_calibrate.h</file>
+      <file>C:\Documents and Settings\hxin\Application Data\energymicro\Device\EnergyMicro\EFM32TG\Include\efm32tg_prs_signals.h</file>
     </outputs>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\RegisterOp.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 11</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 0</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 9 7 10 6 8 15 5 4 3 2 1 21 18 22 13 12 19 27 24 30 20 28 23 29 25 26 31 32 38 39 40 42 41 43 44 46 45 47 48 49 50 51 52 53 58 55 56 57 59 60 54 34 35 36 33 37</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 17</file>
+        </tool>
+      </outputs>
+    </file>
   </configuration>
   <configuration>
     <name>Release</name>
